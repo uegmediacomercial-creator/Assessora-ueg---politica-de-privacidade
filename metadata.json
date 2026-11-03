@@ -1,0 +1,6 @@
+{
+  "name": "Política de Privacidade | UEG",
+  "description": "Política de Privacidade oficial da ASSESSORIA UEG LTDA em conformidade com a LGPD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
